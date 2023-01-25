@@ -3,4 +3,4 @@ echo "This script is from GIT"
 number=$(($number1 + $number2))
 echo $number
 echo "Hey there..!! Welcome..!!"
-echo "This line is addednewly....!!"
+echo "This line is added newly....!!"
